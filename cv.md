@@ -7,3 +7,5 @@
 4. Python, Django, Flask, HTML&CSS, JS, SQL(PostgreSQL, MySQL, Oracle), Git, some JavaSE/EE/Spring.
 5. Code examples [Latest not commercial](https://github.com/DanilXO/bookapp), see more on my [GitHub Account](https://github.com/DanilXO)
 6. [REST API for CRM](https://salonsoftwaredl.com/), [New cite for coworking](https://citycentral.com/), and more other projects.
+7. Course "Разработка приложений на Java", Netcracker, 2018.
+8. English (Intermediate level)
